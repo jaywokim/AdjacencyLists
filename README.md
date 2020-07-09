@@ -1,4 +1,4 @@
-# AlignmentViewer
+# AdjacencyLists
 
 Alignment Viewer is a simple, dependency-free widget to visualize multiple genome sequences.
 
